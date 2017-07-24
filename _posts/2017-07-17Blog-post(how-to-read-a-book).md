@@ -1,10 +1,10 @@
 ---
-Layout:	Blog post
+Layout:	
 Title:	"How to read a book"
 Date:	2017-06-17 09:07:06 -0600
 ---
 
-How to read a book.
+###How to read a book.
 
 This book made me realise the importance of knowing the level of reading that could be most advantegeus to any individual that wants to gain knowledge or just know some information.
 
