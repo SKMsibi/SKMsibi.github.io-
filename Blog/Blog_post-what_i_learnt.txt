@@ -20,4 +20,4 @@ Third generation.
 Fourth generation.
 	-Fourth generation languages use English – like commands. they focus more on what needs to be done rahter how to get it done.
 Fitth genearation.
-	-Fifth Generation Languages are an artificial intelligence research from the 1980s. The approach is to build a program that implements a specific algorithm to solve problems. this generation is currently under development and growth.  
+	-Fifth Generation Languages are an artificial intelligence research from the 1980s. The approach is to build a program that implements a specific algorithm to solve problems. this generation is currently under development and growth.  mm
