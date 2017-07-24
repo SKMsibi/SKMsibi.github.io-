@@ -4,7 +4,7 @@ Title:	"Agile software development"
 Date:	2017-07-18 09:03:08 -0600
 ---
 
-###Agile Software Development.
+### Agile Software Development.
 
 Reading this article widened my view towards programing and coding.
 It made made realise that as much as getting the project done and having a running program is important, acknowledging change and leaving room for change is also a crusial aspect when is come to Software development.
