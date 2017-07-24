@@ -1,5 +1,8 @@
-Blog post
-19 July 2017
+---
+Layout:	Blog post
+Title:	"Code review"
+Date:	2017-20-19 09:03:04 -0600
+---
 
 Code review.
 

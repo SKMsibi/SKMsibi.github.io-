@@ -1,5 +1,8 @@
-Blog post.
-18 july 2017
+---
+layout:	Blog post.
+Title:	"Agile software development"
+Date:	2017-07-18 09:03:08 -0600
+---
 
 Agile Software Development.
 

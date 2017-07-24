@@ -1,5 +1,9 @@
-Blog post
-21 July 2017
+---
+Layout:	Blog post
+Title:	"Desing thinking"
+Date:	2017-07-21 09:08:06 -0600
+Categories:	
+---
 
 Design thinking.
 Is a methologyused by designers to solve complex problems.

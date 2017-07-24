@@ -1,5 +1,9 @@
-Blog post.
-24 July 2017
+---
+Layout:	Blog post.
+Title:	"My Observations"
+Date:	2017-07-24 09:20:08 -0600
+Categories:	
+---
 
 My observations from last week.
 The previous week was a very interesting week field with learning and exploring new factors and theories i did not know of before.

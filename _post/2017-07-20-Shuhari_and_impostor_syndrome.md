@@ -1,5 +1,9 @@
-Blog post
-20 July 2017
+---
+Layout:	Blog post
+Title:	Shu-Ha-Ri
+Date:	2017-07-20 09:20:08 -0600
+Categories:	
+---
 
 Shu-ha-ri.
 

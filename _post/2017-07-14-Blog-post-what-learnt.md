@@ -1,5 +1,8 @@
-blog post.
-14 July 2017
+---
+Layout:	blog post.
+Title:	"Research and what i learnt at the coding groung."
+Date:	2017-07-14 09:08:03 -0600
+---
 
 (What i learnt at The Coding Ground.)
 
