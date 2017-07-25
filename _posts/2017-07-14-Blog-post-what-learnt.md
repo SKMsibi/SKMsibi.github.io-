@@ -4,7 +4,7 @@ Title:	"Research and what i learnt at the coding groung."
 Date:	2017-07-14 09:08:03 -0600
 ---
 
-###(What i learnt at The Coding Ground.)
+### (What i learnt at The Coding Ground.)
 
 The difference between Dynamic and static typing goes beyond just type systems.:
  **Static language.**
