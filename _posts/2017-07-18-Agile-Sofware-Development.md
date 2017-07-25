@@ -1,8 +1,10 @@
 ---
-layout:	
+Layout:	
 Title:	"Agile software development"
 Date:	2017-07-18 09:03:08 -0600
+Categories:	
 ---
+
 
 ### Agile Software Development.
 
