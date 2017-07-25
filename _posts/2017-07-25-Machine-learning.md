@@ -11,6 +11,6 @@ This is a type of Arificial Intelligence (AI) that allows software applications 
 
 The basic goal of machine learning is to build algorithms that can recieve input data and use statical analysis to predict an output value within an accaptable range.
 
-###Algorithm.
+### Algorithm.
 
 Is a procedure of fomular for solving a problem, based on conducting a sequence of specialised actions.
