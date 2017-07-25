@@ -8,12 +8,12 @@ Date:	2017-07-14 09:08:03 -0600
 
 The difference between Dynamic and static typing goes beyond just type systems.:
 
+
  Static language.
 	-The compliler checks the Types for errors or mistakes before running the program.
 	-The variable needs to be declared what type of variable it is beforehand.
 
  Dynami language.
-
 	-On the other hand with Dynamic typse are only checked as the program is running.
 	-There is no need to declare what type of variable it is, the language will figure it out during runtime.
 
