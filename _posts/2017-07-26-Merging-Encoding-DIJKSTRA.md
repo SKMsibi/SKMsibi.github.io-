@@ -26,5 +26,3 @@ A set of rules  used to convert something from one representation to another.
 Is a pascal like programming language. simply putt Turing is a procedural programming language works with a series of computational steps and it uses statements that change a program's state.
 
 
-SHA256:pVWRRYCkJqzL6Si+2x+qCp3Lfj2qm57sGK9KIwIA7CE
-
