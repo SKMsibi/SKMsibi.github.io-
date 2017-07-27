@@ -14,3 +14,7 @@ The basic goal of machine learning is to build algorithms that can recieve input
 ### Algorithm.
 
 Is a procedure of fomular for solving a problem, based on conducting a sequence of specialised actions.
+
+### Jekyll
+
+Is a single sample, blog-aware static site generator for personal, project or organization sites.
