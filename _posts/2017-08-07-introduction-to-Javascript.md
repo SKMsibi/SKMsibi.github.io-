@@ -12,4 +12,4 @@ JavaScript is a programming language that allows you to implement complex things
 It is an object-oriented computer programming language commonly used to create interactive effects within web browsers.
 It is used to make webpages interactive and provide online programs, including video games. 
 
-
+typing = 15wpm
