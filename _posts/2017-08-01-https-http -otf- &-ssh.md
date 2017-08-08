@@ -1,6 +1,6 @@
 ---
 Layout:	
-Title:	"https, ssh, http & otf"
+Title:	"https, ssh & http"
 Date:	2017-08-1 09:03:04 -0600
 ---
 
