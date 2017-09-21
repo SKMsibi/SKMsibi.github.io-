@@ -1,0 +1,75 @@
+<DOCTYPE! html>
+<html>
+<head>
+<title>rsvp-form</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+<script>
+if (deitary != Other){
+
+}
+
+</script>
+<style>
+h1{
+	padding-left:10em;
+}
+button{
+	padding-left:10em;
+}
+.row{
+	padding-bottom:1em;
+}
+</style>
+</head>
+<body>
+	<h1>rsvp form</h1>
+	<div class="container" background-color="pitch">
+		<form id="form" action="confirmationpage.html">
+		<div class="row">
+			<div class="col-md-4">Fistname</div>
+			<div class="col-md-8"><input type="text" id="firstname" name="firstname" placeholder="firstname"></div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">Lastname</div>
+			<div class="col-md-8"><input type="text" id="firstname" name="firstname" placeholder="lastname"></div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">Email</div>
+			<div class="col-md-8"><input type="email" id="email" name="email" placeholder="Email address"></div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">Contact Numbers</div>
+			<div class="col-md-8"><input type="tel" id="contact-no" name="contact-no" placeholder="contact numbers"></div>
+		</div>
+		<div class="row">
+			<div class="col-md-4"">Deitary requirments</div>
+			<div class="col-md-8">
+				<select id="deitary">
+				<option value="none">none</option>
+				<option value="vegan">vegan</option>
+				<option value="vegetarian">vegetarian</option>
+				<option value="gluten-free">gluten-free</option>
+				<option value="pork-free">pork-free</option>
+				<option value="Other">Other</option>
+				</select>
+				<div><input type="text" id="Otherdeitary" name="Otherdeitary" placeholder="State your deitary requirement"></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">Bringing how many friends?</div>
+			<div class="col-md-8"><select>
+				<option>none</option>
+				<option>1</option>
+				<option>2</option>
+				<option>3</option>
+				</select></div></div>
+		</div>
+		<div class="row">
+			<div style="padding-left:26em"><button class="btn btn-primary" id="button" onclick="submit(form)">rsvp</button></div>
+		</div>
+		</form>
+	<div>
+</body>
+</html>
