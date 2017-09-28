@@ -3,6 +3,7 @@ Layout:
 Title:	"Different types of sort Algorithms."
 Date:	2017-09-13 09:08:03 -0600
 ---
+
 ### What is to sort.
 To arrange a list of items in a prefered order.
 
