@@ -7,7 +7,7 @@ Categories:
 
 ### My observations from last week.
 The previous week was a very interesting week field with learning and exploring new factors and theories i did not know of before.
-I realised that my biggest challenge is challenging myself enough, keeping tract of my progress in typing and finding  new ways to challenge myself with factors i am familir with.
+I realized that my biggest challenge is challenging myself enough, keeping tract of my progress in typing and finding  new ways to challenge myself with factors i am familiar with.
 I have a difficult time explaining something using the correct terms
 
 ### How can i improve.

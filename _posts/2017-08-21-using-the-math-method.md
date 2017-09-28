@@ -8,7 +8,7 @@ Date:	2017-08-21 09:08:04 -0600
 The Math. method can be used for different reasons in different cases. It is only used on Numbers.
 The Math. method can be used to generate random decimal numbers, whole numbers or even round down decimals.
 
-### Using Math().random to genetate a decimal number.
+### Using Math().random to generate a decimal number.
 When the math().random method is used to generate a random number, the random number can be 0 but never 1.
 That means the outcome of the Math().random can range from 0 to 0,99...
 e.g var number = math.random();
@@ -22,9 +22,9 @@ e.g var randomNumber = (math.random() * 10);
     return roundDown;
 
 ### Using the math.random() method to generate a whole number.
-When using the math.random to genetate a random whole number with a range, peremeters of max and min have to be passed through to the function.
-The max and min peremeters are used to create the range.
-The whole number can generated using bothe math.floor and math.random. 
+When using the math.random to generate a random whole number with a range, perimeters of max and min have to be passed through to the function.
+The max and min perimeters are used to create the range.
+The whole number can generated using both math.floor and math.random. 
 e.g var randomNumber = math.random();
     var minMax = (max - min);
     var floor = math.floor(randomNumber * minMax);

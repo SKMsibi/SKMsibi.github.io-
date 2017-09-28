@@ -5,9 +5,9 @@ Date:	2017-08-09 09:03:04 -0600
 ---
 
 ### Queue
- A queue is an abstact data structure where items are kept in order.
+ A queue is an abstract data structure where items are kept in order.
 New items are added at the back of the queue and old items are added at the front of the queue.
-Queues can be implemented in JavaScript using either the push and shift methods or unshift and pop methods of the array objec.
+Queues can be implemented in JavaScript using either the push and shift methods or upshift and pop methods of the array object.
 
 ### Boolean
 The Boolean object represents two values, either "true" or "false".

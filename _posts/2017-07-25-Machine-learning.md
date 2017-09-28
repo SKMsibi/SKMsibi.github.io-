@@ -7,13 +7,13 @@ Categories:
 
 ### Machine learning.
 
-This is a type of Arificial Intelligence (AI) that allows software applications to become more accurate in predicting outcomes without explicitly programmed.
+This is a type of Artificial Intelligence (AI) that allows software applications to become more accurate in predicting outcomes without explicitly programmed.
 
-The basic goal of machine learning is to build algorithms that can recieve input data and use statical analysis to predict an output value within an accaptable range.
+The basic goal of machine learning is to build algorithms that can receive input data and use statical analysis to predict an output value within an acceptable range.
 
 ### Algorithm.
 
-Is a procedure of fomular for solving a problem, based on conducting a sequence of specialised actions.
+Is a procedure of formula for solving a problem, based on conducting a sequence of specialized actions.
 
 ### Jekyll
 

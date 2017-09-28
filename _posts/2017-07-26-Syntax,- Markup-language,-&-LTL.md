@@ -10,7 +10,7 @@ The set of rules that define the combination of symbols that are considered to b
 
 The syntax of a language defines its surface form.
 
-The syntax can be applied to bothe programming language and markup languages.
+The syntax can be applied to both programming language and markup languages.
 
 ### Markup language.
 

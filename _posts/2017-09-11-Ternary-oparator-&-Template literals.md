@@ -5,7 +5,7 @@ Date:	2017-09-11 09:08:03 -0600
 ---
 
 ### Ternary operator.
-The conditional (ternaty) Operator is the only JavaScript operator that take's three operands.
+The conditional (ternary) Operator is the only JavaScript operator that take's three operands.
 This operator is frequently used as a shortcut for the "if" statement.
 
 ### Template literals.

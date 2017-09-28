@@ -13,7 +13,7 @@ Is an algorithm or finding the shortest paths between notes.
 
 Is the part of the RCS (revision control system) version control package. It is used to perform a three-way file merge.
 
-Merge analysis three files, an original file and two modified version of the original file and compare them. Line-by-line attemping to resolve the differences between the two sets of modifications in order to create a single, unified file which represents bothe sets of changes.
+Merge analysis three files, an original file and two modified version of the original file and compare them. Line-by-line attempting to resolve the differences between the two sets of modifications in order to create a single, unified file which represents both sets of changes.
 
 ### Encoding
 
