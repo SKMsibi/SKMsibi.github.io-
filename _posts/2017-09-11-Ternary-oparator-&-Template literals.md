@@ -1,7 +1,7 @@
 ---
 Layout:	
 Title:	"Ternary operator and Template literals."
-Date:	2017-09-10 09:08:03 -0600
+Date:	2017-09-11 09:08:03 -0600
 ---
 
 ### Ternary operator.
