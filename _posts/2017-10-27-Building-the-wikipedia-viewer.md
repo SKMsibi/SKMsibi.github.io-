@@ -1,10 +1,10 @@
 ---
 Layout:	
-Title:	"building the quote machine"
+Title:	"building the wikipedia viewer"
 Date:	2017-10-27 09:08:03 -0600
 ---
 
-## Building the quote machine.
+## Building the wikipedia viewer.
 
 While learning about JavaScript on free code camp, a couple of tasks were give based on JSON, APIs and Ajax.
 These concepts opened me up to a whole new world filled with possibilities I didn't know even existed.
