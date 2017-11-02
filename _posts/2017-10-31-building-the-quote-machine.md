@@ -22,7 +22,7 @@ Building a quote machine sounded like fun at first, but because I had built it b
 My approach was to attempt each mission at a time and once complete then I can move on to the next one.
 While attempting any set missions one of the key aspects I has to keep in mind was that try at best to complete the mission without tempering with the previous missions results.
 
-### Fist mission.
+### First mission.
 I created a container where any quote was to be displayed, I then hard quoted  a quote along with the quote author to test how any quote would be desplayed.
 
 ### Second mission.
