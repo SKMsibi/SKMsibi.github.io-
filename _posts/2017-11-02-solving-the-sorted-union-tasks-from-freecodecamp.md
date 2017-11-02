@@ -1,5 +1,5 @@
 ---
-Layout:	"splesh"
+Layout:	
 Title:	"solving the sorted union tasks from freecodecamp"
 Date:	2017-11-02 13:08:03 -0600
 ---
