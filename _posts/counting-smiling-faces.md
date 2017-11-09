@@ -38,14 +38,14 @@ With over a thousand symbols that exists in the world only specific symbols can 
         - If there is a match i than pushed the match element to an empty array.
         - I then return the length of the new array that contained all smiley faces from the given array.
 
-            function countSmileys(arr) {
-        var valid = [];
-        arr.forEach(function(element){
-            if(element == ":)" || element == ":D" || element == ";-D" || element == ":~)" || element == ";~D" || element == ";D" || element == ";)" || element == ";~)" || element == ":-D" || element == ":-)" || element == ";-)" || element == ":~D"){
-            valid.push(element);
-            }
-        });
-        return valid.length;
+        function countSmileys(arr) {
+            var valid = [];
+            arr.forEach(function(element){
+                if(element == ":)" || element == ":D" || element == ";-D" || element == ":~)" || element == ";~D" || element == ";D" || element == ";)" || element == ";~)" || element == ":-D" || element == ":-)" || element == ";-)" || element == ":~D"){
+                valid.push(element);
+                }
+            });
+            return valid.length;
         }
 
     Once done with solving the task, I had a choice to refactor, remove repartition or find a better simpler and shorter way to solve task.
