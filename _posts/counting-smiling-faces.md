@@ -34,18 +34,19 @@ With over a thousand symbols that exists in the world only specific symbols can 
 
 ## Solving the tasks.
     Given an array with a list of different symbol sequences, I had to create a algorithm that would count the number of smiley sequences in the array.
-        - The forEach method is what I decided to use to iterate through the array to compare each sequence with all passible smiley face symbol sequence. - If there is a match i than pushed the match element to an empty array.
+        - The forEach method is what I decided to use to iterate through the array to compare each sequence with all passible smiley face symbol sequence. 
+        - If there is a match i than pushed the match element to an empty array.
         - I then return the length of the new array that contained all smiley faces from the given array.
 
-        function countSmileys(arr) {
-    var valid = [];
-    arr.forEach(function(element){
-        if(element == ":)" || element == ":D" || element == ";-D" || element == ":~)" || element == ";~D" || element == ";D" || element == ";)" || element == ";~)" || element == ":-D" || element == ":-)" || element == ";-)" || element == ":~D"){
-        valid.push(element);
+            function countSmileys(arr) {
+        var valid = [];
+        arr.forEach(function(element){
+            if(element == ":)" || element == ":D" || element == ";-D" || element == ":~)" || element == ";~D" || element == ";D" || element == ";)" || element == ";~)" || element == ":-D" || element == ":-)" || element == ";-)" || element == ":~D"){
+            valid.push(element);
+            }
+        });
+        return valid.length;
         }
-    });
-    return valid.length;
-    }
 
-Once done with solving the task, I had a choice to refactor, remove repartition or find a better simpler and shorter way to solve task.
-I decided to leave my face attempt as is and have my other better attempt of the task in a different file.
+    Once done with solving the task, I had a choice to refactor, remove repartition or find a better simpler and shorter way to solve task.
+    I decided to leave my face attempt as is and have my other better attempt of the task in a different file.
