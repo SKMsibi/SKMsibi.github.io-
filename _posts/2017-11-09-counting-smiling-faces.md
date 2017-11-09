@@ -6,7 +6,7 @@ Date:	2017-11-09 13:08:03 -0600
 
 # Counting Smiling faces.
 
-In the use of symbols to create a smileys face, a tradition of using emoji's and symbol to show expression representation. Which ever an individual like's to use, they are both used interchangeably but the use of symbols is popular.
+In the use of symbols to create a smiley face, a tradition of using emoji's and symbol to show expression representation. Which ever an individual like's to use, they are both used interchangeably but the use of symbols is popular.
 
 With over a thousand symbols that exists in the world only specific symbols can be accepted to make up a smiley face.
 
