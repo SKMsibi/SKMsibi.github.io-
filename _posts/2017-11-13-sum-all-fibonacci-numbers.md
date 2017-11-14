@@ -1,7 +1,7 @@
 ---
 Layout:	
 Title:	"Sum all Odd Fibonacci numbers."
-Date:	2017-11-10 01:08:03 -0600
+Date:	2017-11-13 01:08:03 -0600
 ---
 
 #Summing all Odd Fibonacci numbers.
