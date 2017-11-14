@@ -4,7 +4,7 @@ Title:	"Sum all Odd Fibonacci numbers."
 Date:	2017-11-13 01:08:03 -0600
 ---
 
-#Summing all Odd Fibonacci numbers.
+# Summing all Odd Fibonacci numbers.
 Given a challenge to sum all odd fibonacci numbers that are less than the given number.
 The first thing I had to make sure I took into consideration was the pattern of Fibonacci numbers.
 
