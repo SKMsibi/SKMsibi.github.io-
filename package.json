@@ -1,0 +1,19 @@
+{
+  "name": "tweetproj",
+  "version": "1.0.0",
+  "description": "tweet project",
+  "main": "tweetProj.js",
+  "scripts": {
+    "test": "tweetps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKMsibi/skmsibi.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKMsibi/skmsibi.github.io/issues"
+  },
+  "homepage": "https://github.com/SKMsibi/skmsibi.github.io#readme"
+}
