@@ -7,8 +7,8 @@ const url = "https://api.twitter.com/1.1/statuses/update.json";
 var oauth = {
     consumer_key: 'xtSkoYS1EdICn488D0k5w5rrN',
     consumer_secret: '27QiiOaQDueOERNiPX5ImDusAYAKWQqwW4wffpZL6Yz2Ramzg1',
-    access_token_key: '940168325195280385-99ZNHBPGnlbPiG7gorqaUbV4DmRy9q0',
-    access_token_secret: 'NKCHDxXyeV5vVLcuEho9MLTeAY7usYZ4qKNGlPpBtZK67'
+    token_key: '940168325195280385-99ZNHBPGnlbPiG7gorqaUbV4DmRy9q0',
+    token_secret: 'NKCHDxXyeV5vVLcuEho9MLTeAY7usYZ4qKNGlPpBtZK67'
 };
 var options = {
     url: url,
@@ -26,7 +26,7 @@ request.post(options,
             console.log(httpResponse.body);
         }
     });
-tweetExp.get('/', function (req, res) {
+tweetExp.get('/', function (request, httpResponse) {
   res.send('"stay rooted to your roots."')
 })
  
