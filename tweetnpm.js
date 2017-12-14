@@ -1,6 +1,7 @@
-const express = require("express");
-var app = express();
 const request = require('request');
+var express = require('express')
+var tweetExp = express()
+ 
 const url = "https://api.twitter.com/1.1/statuses/update.json";
 
 var oauth = {
@@ -25,7 +26,8 @@ request.post(options,
             console.log(httpResponse.body);
         }
     });
-app.get("/", function (request, httpResponse) {
-    res.send("stay rooted to your roots.")
-});
-app.listen(3000, () => console.log("stay rooted to your roots."));
+tweetExp.get('/', function (req, res) {
+  res.send('"stay rooted to your roots."')
+})
+ 
+tweetExp.listen(3000);
