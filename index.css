@@ -1,0 +1,33 @@
+  #Home {
+  	background-image: url('https://skmsibi.github.io/codepen/personal%20portfolio/bodo/images/testimonial-bg.jpg');
+  	background-position: fixed;
+  	background-repeat: no-repeat;
+  	display: block;
+  	height: 100%;
+  	width: 100%;
+  	padding-bottom: 60%;
+  	box-sizing: border-box;
+  }
+
+  h1 {
+  	font-family: cooper black, Monospace;
+  	color: Black;
+  }
+
+  img {
+  	align: left;
+  	width: 400px;
+  	height: 302px;
+  	border: "50%";
+  }
+
+  .navbar {
+  	overflow: hidden;
+  	position: fixed;
+  	top: 0;
+  	width: 100%;
+  }
+
+  ul {
+  	font-size: 20px;
+  }
