@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>The Coding Ground</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="index.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
         crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -20,18 +20,41 @@
 
 </head>
 
-<body>
-    <h1>This is the trello link</h1>
-    <blockquote class="trello-board-compact">
-        <a href="https://trello.com/b/ilpTWlmM/the-coding-ground-goal-timeline">Trello Board</a>
-    </blockquote>
-    <script src="https://p.trellocdn.com/embed.min.js"></script>
-    <h1>These are the project done at th coding ground</h1>
-    <div class="container-fluid">
-        <div class="row">
-
-        </div>
+<body id="tcgBody">
+    <div id="trello">
+        <h1>Trello</h1>
+        <blockquote class="trello-board-compact">
+            <a href="https://trello.com/b/ilpTWlmM/the-coding-ground-goal-timeline">Trello Board</a>
+        </blockquote>
+        <script src="https://p.trellocdn.com/embed.min.js"></script>
     </div>
+    <div class="container-fluid" id="Projects">
+        <h1>React Projects</h1>
+        <div class="row">
+            <a href="https://github.com/SKMsibi/react-attempts/tree/master/game-of-life">
+                <div class="col-md-4">The Game Of Life</div>
+                <div class="col-md-6">
+                    <img id="projectImage" src="the-game-of-life.png" alt="the game of life">
+                </div>
+            </a>
+        </div>
+        <div class="row">
+            <a href="https://github.com/SKMsibi/react-attempts/tree/master/recipe-Box">
+                <div class="col-md-4">The recipe box</div>
+                <div class="col-md-6">
+                    <img id="projectImage" src="recipe-box.png" alt="the recipe box">
+                </div>
+            </a>
+        </div>
+        <div class="row">
+            <a href="https://github.com/SKMsibi/react-attempts/tree/master/mark-down-project">
+                <div class="col-md-4">Markdown preview</div>
+                <div class="col-md-6">
+                    <img id="projectImage" src="markdown-preview.png" alt="the recipe box">
+                </div>
+            </a>
+        </div>
+
 </body>
 
 </html>

@@ -1,9 +1,29 @@
-body {
+#mainPageBody {
 	font-family: cooper black, Monospace;
+}
+
+#tcgBody {
+	color: rgb(48, 152, 238);
+	font-family: cooper black, Monospace;
+	background-color: black
 }
 
 #font-awesome {
 	size: 20xp;
+}
+
+#trello {
+	padding-left: 40%;
+}
+
+#Projects {
+	padding-left: 30%;
+}
+
+#projectImage {
+	height: 200px;
+	width: 300px;
+	padding-bottom: 3em;
 }
 
 #Skills {
