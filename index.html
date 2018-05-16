@@ -5,7 +5,10 @@
 	<title>Sabelo Msibi</title>
 	<meta charset="UTF-8">
 	<script src="index.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="index.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+	 crossorigin="anonymous">
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
 	 crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
@@ -15,8 +18,12 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
 	 crossorigin="anonymous">
 	<title>Sabelo Kabelo Msibi.</title>
+
+</head>
+
+<body>
 	<div class="navbar navbar navbar-fixed-top">
-		<img src="https://skmsibi.github.io/codepen/img/SKM.png" alt="Img" style="height:50px; width:50px;">Sabelo Kabelo Msibi
+		<img src="https://skmsibi.github.io/codepen/img/SKM.png" id="img" alt="Img" style="height:50px; width:50px;">Sabelo Kabelo Msibi
 		<ul class="nav navbar-nav navbar-right">
 			<li>
 				<a class="scrollable" rel="nofollow" href="index.html">HOME</a>
@@ -24,35 +31,71 @@
 			<li>
 				<a class="scrollable" rel="nofollow" href="#Portfolio">PORTFOLIO</a>
 			</li>
+			<li>
+				<a class="scrollable" rel="nofollow" href="The-Coding-Ground.html">TCG</a>
+			</li>
 		</ul>
 	</div>
-</head>
-
-<body onload="settingBackground()">
-	<section id="Home"></section>
-	<section>
-		<div style="padding-top:200px; padding-left:100px">
-			<span id="https://skmsibi.github.io/codepen/img/slider-bg.jpg"></span>
-			<h1 style="color:black;">
+	<div class="container-fluid" id="Home">
+		<span class="container" id="imageAndName">
+			<img src="https://avatars3.githubusercontent.com/u/30071099?s=400&u=9cb9a276db6c94c122b8c279e70d0b6980d9cdef&v=4" alt="cartoon representation of Sabelo"
+			 id="ownImage">
+			<p>
 				<u>Sabelo Kabelo Msibi</u>
+			</p>
+		</span>
+	</div>
+	<section>
+		<div class="container">
+			<div class="row">
 				<h1>
-					<div class="col-md-7 col-sm-12">
-						<b>
-							<p>	An Upcoming fullstack developer, Computer Systems Administrator,
-								<br/>Web Developer and User Experience Designer. Devoted to
-								<br/>functional programming and information architecture.
-								<br/>pasionate abou extreme sports (aggressive inline skating)
-								<br/>and living life to the fullest.
-
-						</b>
-					</div>
+					<u>About Sabelo</u>
 				</h1>
-
+			</div>
+			<div class="row">
+				<p> Young and spirit filled individual with a wild,bubbly and a bit of rebel personality. Interested in web and software
+					development, technology advancement and human empowerment.
+					<br/>Passionate about extreme sports (aggressive inline skating), traveling and self development.
+			</div>
+			<div class="row">
+				<h1>Skills and experience</h1>
+			</div>
+		</div>
+		<div id="Skills" class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<h1>HTML</h1>
+				</div>
+				<div class="col-md-6">
+					<div id="font-awesome" class="fab fa-html5"></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6">
+					<H1>CSS</H1>
+				</div>
+				<div class="col-md-6">
+					<div id="font-awesome" class="fab fa-css3"></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6">
+					<h1>JavaScript</h1>
+				</div>
+				<div class="col-md-6">
+					<div id="font-awesome" class="fab fa-js"></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6">
+					<h1>React</h1>
+				</div>
+				<div class="col-md-6">
+					<div id="font-awesome" class="fab fa-react"></div>
+				</div>
+			</div>
 		</div>
 	</section>
-	<div class="container-fluid">
-
-	</div>
 </body>
 
 </html>
