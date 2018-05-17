@@ -15,8 +15,9 @@
   "bugs": {
     "url": "https://github.com/SKMsibi/skmsibi.github.io/issues"
   },
-  "homepage": "https://github.com/SKMsibi/skmsibi.github.io#readme",
+  "homepage": "https://github.com/SKMsibi/skmsibi.github.io/myapp",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "gh-pages": "^1.1.0"
   }
 }
