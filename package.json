@@ -1,10 +1,11 @@
 {
-  "name": "tweetproj",
+  "homepage": "https://github.com/SKMsibi/skmsibi.github.io/myapp",
+  "name": "myapp",
   "version": "1.0.0",
   "description": "tweet project",
   "main": "tweetProj.js",
   "scripts": {
-    "test": "tweetps"
+    "test": "myapp"
   },
   "repository": {
     "type": "git",
@@ -15,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/SKMsibi/skmsibi.github.io/issues"
   },
-  "homepage": "https://github.com/SKMsibi/skmsibi.github.io/myapp",
   "dependencies": {
     "express": "^4.16.2",
     "gh-pages": "^1.1.0"
