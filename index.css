@@ -47,7 +47,7 @@ h1 {
 }
 
 #imageAndName {
-	color: rgb(3, 3, 3);s
+	color: rgb(3, 3, 3);
 	font-family: 'Aclonica';
 	font-size: 350%;
 }
@@ -60,6 +60,7 @@ h1 {
 ul {
 	font-size: 20px;
 }
+
 /* <div class="row">
 <a href="/game-of-life/">
 	<div class="col-md-4">The Game Of Life</div>
