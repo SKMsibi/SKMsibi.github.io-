@@ -1,5 +1,7 @@
 #mainPageBody {
-	font-family: cooper black, Monospace;
+	color: white;
+	font-family: cooper white, Monospace;
+	background-color: black;
 }
 
 #tcgBody {
@@ -32,11 +34,12 @@
 }
 
 #Home {
-	background-image: url('https://images.unsplash.com/photo-1456947700819-d91abdf38117?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=58742f4101cc22b4827a853af65e6972&auto=format&fit=crop&w=751&q=80s');
+	color: white;
+	background-image: url('https://source.unsplash.com/collection/944977/1600x900');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
-	height: 100%;
+	height: 600px;
 	padding-left: 35%;
 	padding-top: 20%;
 }
@@ -47,7 +50,7 @@ h1 {
 }
 
 #imageAndName {
-	color: rgb(3, 3, 3);
+	color: rgb(245, 245, 245);
 	font-family: 'Aclonica';
 	font-size: 350%;
 }
@@ -55,6 +58,22 @@ h1 {
 #ownImage {
 	height: 200px;
 	padding-left: 10%;
+}
+
+li {
+	padding-left: 70px;
+	margin-left: 80px;
+}
+
+#button {
+	background-color: rgba(20, 23, 26, 0.973);
+	color: white;
+	border-radius: 5px;
+}
+
+nav {
+	height: 10px;
+	background-color: rgba(219, 196, 196, 0)
 }
 
 ul {
