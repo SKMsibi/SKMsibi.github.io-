@@ -39,7 +39,7 @@
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
-	height: 600px;
+	height: 200%;
 	padding-left: 35%;
 	padding-top: 20%;
 }
@@ -47,6 +47,16 @@
 h1 {
 	font-family: cooper black, Monospace;
 	color: Black;
+}
+
+#menuList {
+	margin-left: 300px;
+}
+
+#name {
+	color: rgb(245, 245, 245);
+	font-family: 'Aclonica';
+	font-size: 350%;
 }
 
 #imageAndName {
@@ -60,11 +70,6 @@ h1 {
 	padding-left: 10%;
 }
 
-li {
-	padding-left: 70px;
-	margin-left: 80px;
-}
-
 #button {
 	background-color: rgba(20, 23, 26, 0.973);
 	color: white;
@@ -72,7 +77,6 @@ li {
 }
 
 nav {
-	height: 10px;
 	background-color: rgba(219, 196, 196, 0)
 }
 
